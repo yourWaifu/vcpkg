@@ -29,6 +29,7 @@
     "cpr": {
       "description": "Use CPR library for handling HTTPS",
       "dependencies": [
+        "curl",
         "cpr"
       ]
     },
